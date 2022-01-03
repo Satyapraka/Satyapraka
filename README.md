@@ -1,7 +1,185 @@
  <html lang="en">
   <head>
   <style>
-    
+    body{
+
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3gjmByBfgznQBAs7osDd8efqfYM_5jdLh_g&usqp=CAU");
+
+    background-repeat:;
+
+    background-attachment:fixed;
+
+    background-position:right top;
+
+}
+
+    .font{
+
+        font-size:4px;
+
+        text-decoration:bold;
+
+        font-family:Cursiv;
+
+        text-shadow:1px 1px maroon;
+
+        color:teal;
+
+        background-color:white;
+
+        width:45px;
+
+    }
+
+        .container{
+
+            background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJEjIeFpLWTW2bYdUntvVqfNmbK94_bkJYw&usqp=CAU");
+
+            background-repeat:none;
+
+            border:2;
+
+            border-width:3px;
+
+            border-color:aqua;
+
+            border-style:inset;
+
+            padding-left:8px;
+
+            padding-top:8px;
+
+            text-decoration:bold;
+
+            margin-top:8px;
+
+        }
+
+    input{
+
+        background-color:lightblue;
+
+        padding-top:4px;
+
+        margin-top:4px;
+
+        
+
+    }
+
+.btn{
+
+    background-color:teal;
+
+    border-style:outset;
+
+    border-color:pink;
+
+    border-width:2px;
+
+    text-decoration:bold;
+
+    margin-left:10%;
+
+    margin-top:16px;
+
+    width:75%;
+
+    padding:10px;
+
+    font-weight:bold;
+
+    font-size:1em;
+
+    color:lime;
+
+}
+
+select{
+
+    background-color:aquamarine;
+
+    border-style:outset;
+
+    border-width:4px;
+
+        margin-top:6px;
+
+}
+      .cont{
+    margin-top:20px;
+    margin-left:20px;
+       width:260px; background-image:linear-gradient(Olive,teal,purple,maroon);
+        border-style:groove;
+        border-width:2px;
+        border-radius:3px;
+        align:center;
+        text-decoration:bolder;
+        text-indent:5px;
+        text-shadow:1px 1px black;
+        font-weight:bold;
+    }
+     .comment{  
+     background-color:pink;
+     width:99%;
+   border-style:ridge;
+   border-radius:5px;
+   border-width:6px;
+   border-color:silver;
+     }
+
+    .bhasha{
+        background-color:aquamarine;
+        border-style:outset;
+        border-width:4px;
+        margin-top:6px;
+        
+    }
+        .complete{
+            font-family:cursive;
+            color:maroon;
+            text-shadow:1px 2px red;
+        }
+                .anim{
+                    margin-top:-12px;
+                    background-color:silver;
+                    
+                }
+            .fb,.insta,.link{
+                width:35px;
+                height:35px;
+                border-radius:0;
+            }    
+                .gif{
+                    width:240px;
+                    height:160px;
+                    border-style:outset;
+                    border-width:1px;
+                    border-radius:3px;
+                    margin-left:35px;
+                    margin-top:5px;
+                }
+                .cd{
+                    text-align:center;
+                    color:cyan;
+                }
+    .detail{
+  margin-top:8px;
+  margin-bottom:8px;
+  padding: 2px 6px;
+  width: 300px;
+  background-color:gold;
+  border-style:groove;
+  box-shadow: 3px 3px 4px black;
+  cursor: pointer;
+}
+
+.summ{
+    text-shadow:1px 1px darkgreen;
+    color:#FF8C00;
+    font-family:Times New Roman;
+    font-weight:bold;
+}
     </style>
   </head>
     <body text="white">
